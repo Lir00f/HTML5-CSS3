@@ -1,0 +1,33 @@
+
+h1 {
+  /*background: red;
+   padding-top: 30px;
+  padding-bottom: 60px;
+  padding-left: 25px;
+  padding-right: 50px;
+  margin: 30px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: green;
+  border-bottom-style: dashed;
+  border-bottom-width: 5px;
+  border-bottom-color: #222;*/
+  background: red;
+  padding: 20px;
+  border: 5px solid black;
+  border-radius: 20px;
+}
+
+p {
+  /* background: blue;
+  padding: 20px;
+  border: 13px solid yellow;
+  padding: 50px; 
+  padding: 30px 60px; 
+  margin: 100px 20px 20px 50px;*/
+  background: blue;
+  padding: 20px;
+  border: 13px solid green;
+  border-radius: 50%;
+  margin-top: -100px;
+}
