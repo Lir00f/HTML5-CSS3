@@ -1,0 +1,13 @@
+
+.block {
+  background: blue;
+  color: white;
+  display: block;
+  display: inline;
+}
+.inline {
+  background: red;
+  color: white;
+  display: inline;
+  display: block;
+}
