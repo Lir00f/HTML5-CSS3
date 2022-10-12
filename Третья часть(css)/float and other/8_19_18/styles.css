@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  height: 300px;
+  width: 50%;
+  float: right;
+}
+
+.one {
+  background: blueviolet;
+}
+.two {
+  background: rgb(79, 128, 0);
+}
+.three {
+  background: rgb(255, 217, 0);
+}
+.four {
+  background: rgb(255, 0, 64);
+}
+h1 {
+  clear: both;
+}
