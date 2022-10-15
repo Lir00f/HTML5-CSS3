@@ -1,0 +1,17 @@
+* {
+    color:rgb(114, 153, 51);
+    background-color: black;
+}
+#heading {
+    font-size: 40px;
+    text-transform: unset;
+    color: blue;
+}
+.heading {
+    font-size: 20px;
+    text-transform: capitalize;
+    color: yellow;
+}
+p{
+    letter-spacing: 20px;
+}
