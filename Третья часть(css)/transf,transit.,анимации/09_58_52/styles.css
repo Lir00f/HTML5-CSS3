@@ -1,0 +1,18 @@
+div {
+  width: 350px;
+  height: 150px;
+  display: inline-block;
+}
+.one {
+  background: rgb(13, 241, 32);
+  transform: scaleX(0.5);
+}
+.two {
+  background: rgb(107, 107, 216);
+  transform: scaleY(1.5);
+}
+.three {
+  background: rgb(98, 129, 98);
+  transform: scale(1.2, 1.5);
+  transform: scale(2);
+}

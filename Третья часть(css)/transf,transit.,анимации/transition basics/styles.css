@@ -1,0 +1,20 @@
+
+div {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+}
+div:hover {
+  background: rgb(59, 153, 153);
+}
+.one {
+  background: rgb(152, 23, 228);
+}
+.two {
+  background: rgb(0, 255, 128);
+}
+.three {
+  background: rgb(185, 0, 93);
+  transition-property: background;
+  transition-duration: 4s;
+}

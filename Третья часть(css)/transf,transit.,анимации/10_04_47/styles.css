@@ -1,0 +1,17 @@
+div {
+  width: 150px;
+  height: 350px;
+  display: inline-block;
+}
+.one {
+  background: rgb(30, 255, 0);
+  transform: skewX(40deg);
+}
+.two {
+  background: rgb(255, 196, 0);
+  transform: skewY(40deg);
+}
+.three {
+  background: rgb(128, 0, 53);
+  transform: skew(40deg, 40deg);
+}

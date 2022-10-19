@@ -1,0 +1,21 @@
+div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+.one {
+  background: rgb(187, 255, 0);
+}
+.two {
+  background: rgb(81, 255, 0);
+}
+.three {
+  background: rgb(0, 109, 128);
+  transition: all 2s;
+}
+.three:hover {
+  background: rgb(80, 255, 153);
+  border-radius: 50%;
+  transform: scale(1.2);
+}
